@@ -4,4 +4,14 @@
 }
 .fundo{
     background-image: linear-gradient(45deg, rgb(81, 255, 0), rgb(255, 0, 140) );
+    height: 100vh;
+    font-family:cursive;
+}
+h1{font-size: 70px;}
+p{font-size: 50px;}
+
+
+.Calculadora{
+    position: absolute;
+    background-color: rgba(rgb(0, 68, 255),0.7);
 }
